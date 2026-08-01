@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-y45d0w.ridlerlandscapes.co.nz/sitemap.xml
